@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**I-Ahsan/I-Ahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I-Ahsan/I-Ahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Contact Me:
+[Linkedin](https://www.linkedin.com/in/ibtesaam-ahsan-ab1213233/) | [Instagram](https://www.instagram.com/ibby_ahsan/)
